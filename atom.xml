@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yan&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-11T01:08:48.226Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>温言</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world </title>
+    <link href="http://yoursite.com/2019/05/11/hello-world/"/>
+    <id>http://yoursite.com/2019/05/11/hello-world/</id>
+    <published>2019-05-11T01:08:26.000Z</published>
+    <updated>2019-05-11T01:08:48.226Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Hello
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
