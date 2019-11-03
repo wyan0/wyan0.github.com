@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-01T02:38:58.965Z</updated>
+  <updated>2019-11-03T01:29:40.957Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,46 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>九月初随笔</title>
-    <link href="http://yoursite.com/2019/08/31/%E4%B9%9D%E6%9C%88%E5%88%9D%E9%9A%8F%E7%AC%94/"/>
-    <id>http://yoursite.com/2019/08/31/九月初随笔/</id>
-    <published>2019-08-31T14:41:12.000Z</published>
-    <updated>2019-09-01T02:38:58.965Z</updated>
+    <title>十一月中旬随笔</title>
+    <link href="http://yoursite.com/2019/11/02/%E5%8D%81%E4%B8%80%E6%9C%88%E4%B8%AD%E6%97%AC%E9%9A%8F%E7%AC%94/"/>
+    <id>http://yoursite.com/2019/11/02/十一月中旬随笔/</id>
+    <published>2019-11-02T13:01:47.000Z</published>
+    <updated>2019-11-03T01:29:40.957Z</updated>
     
-    <content type="html"><![CDATA[<p>1111111111111111111111111111</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;1111111111111111111111111111&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="生活随笔" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="生活随笔" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello Everyone!</title>
-    <link href="http://yoursite.com/2019/07/20/Hello-Everyone/"/>
-    <id>http://yoursite.com/2019/07/20/Hello-Everyone/</id>
-    <published>2019-07-20T02:49:14.000Z</published>
-    <updated>2019-07-20T02:49:33.137Z</updated>
-    
-    <content type="html"><![CDATA[<p>hello！</p>]]></content>
+    <content type="html"><![CDATA[<p>不知不觉已是十一月。<br>已经正式步入高中近三个月，原以为高一不会太轻松但也不会很紧张，但现实却是每天都有成堆的作业，很难说再有空闲时间。<br>入校以来，连续三次考试失利，让我开始怀疑自己，怀疑自己是否适合待在高中。今年技术上进阶几乎为零，突然感觉自己似乎什么都不如别人，经常想要放弃。<br>但总归是不甘心，不甘心落后于别人。</p><blockquote><p>自古逢秋悲寂寥，我言秋日胜春朝<br>晴空一鹤排云上，便引诗情到碧霄。</p></blockquote><p>在此立个flag，年底掌握常见web漏洞原理与时间，python入门。冲进年级前500-300。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;hello！&lt;/p&gt;
-
+        &lt;p&gt;不知不觉已是十一月。&lt;br&gt;已经正式步入高中近三个月，原以为高一不会太轻松但也不会很紧张，但现实却是每天都有成堆的作业，很难说再有空闲时间。&lt;br&gt;入校以来，连续三次考试失利，让我开始怀疑自己，怀疑自己是否适合待在高中。今年技术上进阶几乎为零，突然感觉自己似乎什么都不如别人
       
     
     </summary>
